@@ -23,7 +23,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [retail-data-intelligence-platform](https://github.com/aadiVerma07/retail-data-intelligence-platform) | ETL + API + Analytics platform for sales insights | Python, FastAPI, Streamlit, MySQL, AWS |
-| [Smart Contact Manager](#) | Spring Boot app with authentication & contact management | Java, Spring Boot, MySQL |
+| [Data Quality Validator](https://github.com/aadiVerma07/data-quality-validator) | Config-driven Python framework for validating, cleaning, and scoring data quality across datasets — with automated reporting and an interactive Streamlit dashboard for insights. | Python, Pandas, Streamlit, PyYAML, Plotly, Logging |
 | [ETL Data Pipeline](#) | Automated data cleaning & loading system | Python, Pandas, Talend |
 
 ---
