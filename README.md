@@ -22,7 +22,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [Flipkart Data Intelligence Platform](#) | ETL + API + Analytics platform for sales insights | Python, FastAPI, Streamlit, MySQL, AWS |
+| [Retail Data Intelligence Platform](#) | ETL + API + Analytics platform for sales insights | Python, FastAPI, Streamlit, MySQL, AWS |
 | [Smart Contact Manager](#) | Spring Boot app with authentication & contact management | Java, Spring Boot, MySQL |
 | [ETL Data Pipeline](#) | Automated data cleaning & loading system | Python, Pandas, Talend |
 
