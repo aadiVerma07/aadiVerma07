@@ -2,7 +2,7 @@
 
 🚀 **Associate Software Engineer @ Accenture | ETL • Python • Java • AWS • Data Analytics**  
 💡 Passionate about building scalable data pipelines, backend APIs, and analytics dashboards.  
-🎯 Currently building: **Flipkart Data Intelligence Platform** (ETL + API + Analytics)  
+🎯 Currently building: **Retail Data Intelligence Platform** (ETL + API + Analytics)  
 📍 Lucknow, India | 🎓 B.Tech (CSE), AKTU 2023  
 📫 [LinkedIn](https://www.linkedin.com/in/adityabkumar/) | [Email](mailto:aadikumar.world@gmail.com)
 
