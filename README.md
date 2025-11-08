@@ -11,7 +11,7 @@
  🧠 Tech Stack
 
 **Languages:** Python, Java, SQL  
-**Frameworks:** Spring Boot, Flask, Streamlit  
+**Frameworks:** Spring Boot, FastAPI, Streamlit  
 **ETL & Data Tools:** Talend, Pandas, AlloyDB, MySQL  
 **Cloud:** AWS (S3, Lambda, EC2), GCP (BigQuery, GCS)  
 **Others:** REST APIs, Kafka (Mock), Unit Testing, Git, Jenkins  
