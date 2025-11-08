@@ -29,7 +29,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadiVerma07&show_icons=true&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadiVerma07&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadiVerma07&layout=compact&theme=radical&count_private=true)
 
 
